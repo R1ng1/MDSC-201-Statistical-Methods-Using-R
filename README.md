@@ -1,1 +1,1 @@
-# R_lab_1
+# MDSC-201-Statistical-Methods-Using-R
